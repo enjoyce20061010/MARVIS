@@ -1,0 +1,3 @@
+def test_add():
+    from modules import utils
+    assert utils.add(2, 3) == 5

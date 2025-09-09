@@ -1,0 +1,42 @@
+{"ts": 1757407401535, "event": "controller.start", "user_task": "Refactor module X to improve readability"}
+{"ts": 1757407401535, "event": "controller.iteration", "retry": 0}
+{"ts": 1757407401535, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407401535, "event": "tests.result", "passed": false}
+{"ts": 1757407401535, "event": "supervisor.decision", "decision": "retry"}
+{"ts": 1757407401535, "event": "controller.iteration", "retry": 1}
+{"ts": 1757407401535, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407401535, "event": "tests.result", "passed": false}
+{"ts": 1757407401535, "event": "supervisor.decision", "decision": "retry"}
+{"ts": 1757407401535, "event": "controller.iteration", "retry": 2}
+{"ts": 1757407401535, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407401535, "event": "tests.result", "passed": false}
+{"ts": 1757407401535, "event": "supervisor.decision", "decision": "intervene"}
+{"ts": 1757407401535, "event": "controller.done", "status": "Needs Human Intervention"}
+{"ts": 1757407534354, "event": "controller.start", "user_task": "Demo interactive run"}
+{"ts": 1757407534354, "event": "controller.iteration", "retry": 0}
+{"ts": 1757407534354, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407534354, "event": "tests.result", "passed": false}
+{"ts": 1757407534354, "event": "supervisor.decision", "decision": "retry"}
+{"ts": 1757407534354, "event": "controller.iteration", "retry": 1}
+{"ts": 1757407534354, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407534354, "event": "tests.result", "passed": false}
+{"ts": 1757407534355, "event": "supervisor.decision", "decision": "retry"}
+{"ts": 1757407534355, "event": "controller.iteration", "retry": 2}
+{"ts": 1757407534355, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407534355, "event": "tests.result", "passed": false}
+{"ts": 1757407534355, "event": "supervisor.decision", "decision": "intervene"}
+{"ts": 1757407534355, "event": "controller.done", "status": "Needs Human Intervention"}
+{"ts": 1757407611866, "event": "controller.start", "user_task": "Refactor module X to improve readability"}
+{"ts": 1757407611867, "event": "controller.iteration", "retry": 0}
+{"ts": 1757407611867, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407611867, "event": "tests.result", "passed": false}
+{"ts": 1757407611867, "event": "supervisor.decision", "decision": "retry"}
+{"ts": 1757407611867, "event": "controller.iteration", "retry": 1}
+{"ts": 1757407611867, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407611867, "event": "tests.result", "passed": false}
+{"ts": 1757407611867, "event": "supervisor.decision", "decision": "retry"}
+{"ts": 1757407611867, "event": "controller.iteration", "retry": 2}
+{"ts": 1757407611867, "event": "code_agent.change", "summary_len": 61}
+{"ts": 1757407611867, "event": "tests.result", "passed": false}
+{"ts": 1757407611867, "event": "supervisor.decision", "decision": "intervene"}
+{"ts": 1757407611867, "event": "controller.done", "status": "Needs Human Intervention"}
